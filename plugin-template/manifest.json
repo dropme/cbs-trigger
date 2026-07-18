@@ -1,0 +1,7 @@
+{
+  "id": "example.template",
+  "name": "Plugin Template",
+  "version": "1.0.0",
+  "apiVersion": 5,
+  "main": "index.js"
+}
